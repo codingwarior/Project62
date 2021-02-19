@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+}
+
+.gallery {
+    width: 400px;
+    height: 400px;
+}
+
+.images {
+    width: 600px;
+    height: 500px;
+}
+
+.carousel-inner {
+    background-color: rgba(0, 0, 0, 0.0);
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    padding-top: 100px;
+}
+
+.gallery2 {
+    width: 400px;
+    height: 400px;
+    padding-top: 100px;
+}
+
+.main {
+    width: 1000px;
+    height: 500px;
+    padding-top: 100px;
+}
